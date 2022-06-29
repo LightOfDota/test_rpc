@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order_service" />
+        <module name="pre_server" />
+        <module name="faced_1" />
+        <module name="server_1" />
+        <module name="proxy_util" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
